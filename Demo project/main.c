@@ -11,7 +11,7 @@ instead of the number.
 **/
 
     printf("\n===== Simple Calculator =====\n");
-    printf("\n1. Addition (+)\n");
+    printf("1. Addition (+)\n");
     printf("2. Subtraction (-)\n");
     printf("3. Multiplication (*)\n");
     printf("4. Division (/)\n");
