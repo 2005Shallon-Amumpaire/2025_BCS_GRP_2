@@ -90,7 +90,7 @@ ERROR:
         }
         //}
 
-        //code for use sored result
+        //code for use of stored result
         printf("\n To use the stored result? = %d (YES: PRESS 1 TO USE / NO: PRESS 0 TO IGNORE) ",stored_result);//prompts the user to use the stored result
 
 /**
