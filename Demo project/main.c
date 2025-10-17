@@ -62,7 +62,7 @@ CONDITION:
     the condition when is met the user is able perform any calculation in the range of option 1 and 5
     and otherwise he/she chooses other options or an error occurs if he puts a number out of range.
 
-ERROR:
+ERROR !!:
 **/
     if(choice >= 1 && choice <= 5){
         int num1;
